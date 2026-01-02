@@ -70,16 +70,14 @@ Develop the technical skills, cybersecurity knowledge, and physical fitness requ
 ## 📂 Repository Structure
 
 ```
-/challenges          # Practice problems and solutions
-  /c-fundamentals    # 20 C challenges
-  /cpp-basics        # 12 C++ challenges
+/c-challenges        # 20 C challenges (progressive difficulty)
+/cpp-challenges      # 12 C++ challenges (progressive difficulty)
 /projects            # Major projects
   /q1-encryption-tool
   /q2-iot-monitor
   /q3-secure-chat
   /q4-mission-planner
-/cybersecurity       # CTF write-ups, security notes
-/docs               # Learning notes, resources
+/cyber-security       # CTF write-ups, security notes
 ```
 
 ## 🛠️ Tech Stack
