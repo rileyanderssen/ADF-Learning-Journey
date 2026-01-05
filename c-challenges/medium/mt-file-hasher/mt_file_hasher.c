@@ -92,6 +92,9 @@
  * Part of: ADF Software Engineer Preparation - C Challenges
  *****************************************************************************/
 
+// NOTE -> I have chosen not to use the mutex/semaphore as it is redundant in this problem
+// due to the results all being summed together
+
 #include <stdlib.h>
 #include <stdio.h>
 #include <stdint.h>
